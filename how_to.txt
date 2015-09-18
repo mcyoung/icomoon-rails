@@ -1,0 +1,18 @@
+Go to icomoon.io/app/#/select
+
+Select desired icons.
+
+To Import icons: Select the import icons button and choose desired icons to import.
+
+After you have selected all desired icons, select 'Generate Font' and then select 'Preferences'
+
+Font Name must be: ameritest
+Class Prefix must be ameritest-icon-
+select Generate Stylesheet Variables for: Sass
+Make sure 'Use i' is selected under CSS Selector
+
+
+In the icomoon-rails repository go to vendor > assets > fonts > ameritest > Replace files with the ones you just downloaded
+
+When using the icons in your code, make sure the class matches the class in the style.css.sass file
+
